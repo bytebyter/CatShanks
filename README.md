@@ -9,6 +9,6 @@ To load this into android studio, simply create a new project in android studio.
 Copy everything from the source folder directly into the src folder in the project, and update the package references.
 Additionally, the android manifest may have to be edited to provide the proper entry point into the application. (Which FYI is MainActivity.java)
 
-After this has been down, download the latest gson library and place it in a folder libs under the app folder in android studio.
+After this has been done, download the latest gson library and place it in a folder libs under the app folder in android studio.
 
 
